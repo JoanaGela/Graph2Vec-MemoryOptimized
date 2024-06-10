@@ -11,4 +11,4 @@ In our application scenario, the dataset comprises graphs of identical base shap
 * Input Format: Unlike the original Graph2Vec implementation, where the input is a list of graphs, our variant takes a list of lists as input. Each inner list represents a graph and contains only the nodes with non-zero attributes.
 
 
-The original work can be found in: https://arxiv.org/pdf/1707.05005.pdf and in the [Karate Club]([url](https://github.com/benedekrozemberczki/karateclub)) package.
+The original work can be found in: https://arxiv.org/pdf/1707.05005.pdf and in the [Karate Club]([[url](https://github.com/benedekrozemberczki/karateclub)]) package.
